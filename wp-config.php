@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpress_news' );
 define( 'DB_USER', 'mavin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'mavin123' );
+define( 'DB_PASSWORD', 'mavin12345' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
